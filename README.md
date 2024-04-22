@@ -8,6 +8,9 @@
   <a href="mailto:mija.pilkaite@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
+  <a href="https://red-smoke-04fa8d703.5.azurestaticapps.net/">
+    <img src="https://img.shields.io/badge/Google_Chrome-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome badge"/>
+  </a>
   
 </div>
 
