@@ -17,7 +17,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently in my last year at Ecole Polytechnique (Paris, France) in Computer Science and Math. 
-- 🌱 I am passionate about seeing technology being applied to solve pressing daily issues.
+- 🌱 I am passionate about seeing technology applied to solve pressing daily issues.
 - 💬 I am bilingual in Lithuanian and English. I have a B2 in French and a B1 in German and can also order food in Mandarin!
 - 💻 Tools and Technologies:
 
